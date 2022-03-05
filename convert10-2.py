@@ -8,3 +8,7 @@ while n > 0:
 
 print(result)
 
+
+
+a = 18
+print(bin(a))
